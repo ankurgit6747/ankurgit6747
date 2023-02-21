@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/ankur02sept" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur02sept" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankursrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankursrma" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14846429/ankur-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14846429/ankur-sharma" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14846429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14846429" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ankurgit6747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ankurgit6747" height="30" width="40" /></a>
 <a href="https://instagram.com/ankur_srma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankur_srma" height="30" width="40" /></a>
 </p>
